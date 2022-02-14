@@ -1,0 +1,1 @@
+google_cloud_pipeline_components==0.2.6
